@@ -1,7 +1,7 @@
 import pytest
 import math
 
-#pytest 参数化
+#pytest 参数化 demo1
 @pytest.mark.parametrize(
     "base,exponent,expected",
     [
